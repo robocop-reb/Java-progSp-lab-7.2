@@ -48,11 +48,11 @@
 
             <td><c:out value = "${row.id}"/></td>
 
-            <td><c:out value = "${row.Author_Name}"/></td>
+            <td><c:out value = "${row.Composer_Name}"/></td>
 
-            <td><c:out value = "${row.Book_title}"/></td>
+            <td><c:out value = "${row.song_title}"/></td>
 
-            <td><c:out value = "${row.Book_code}"/></td>
+            <td><c:out value = "${row.song_code}"/></td>
 
         </tr>
 
